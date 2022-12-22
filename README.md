@@ -9,6 +9,7 @@ Git repository and various commands using a web project.
 Main purpose is to provide simple examples for Git that are
 easy to follow along with.
 ## Deployment
+Deploy it quick!
 ## How To Contributee
 
 Sample website with plenty of files for demos
